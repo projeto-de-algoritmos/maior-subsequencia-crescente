@@ -1,45 +1,32 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# **Contagem de Inversões**
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+**Número da Lista**: 1<br>
+**Conteúdo da Disciplina**: Programação dinâmica<br>
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
-
-## Alunos
+## **Alunos**
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0140571  |  Douglas Farias de Castro |
+| 17/0034941  |  Guilherme Peixoto |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## **Sobre**
+O projeto atual faz parte de quinta entrega da disciplina de Projeto de Algoritmos. O objetivo é exercitar o algoritmo de maior subsequência crescente.
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## **Screenshots**
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+### **SIte (Dividir)**
+![Código](assets/tf-site.png)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+#### **Código**
+![Código 493](assets/code.png)
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## **Instalação**
+**Linguagem**: js e C<br>
 
+Para executar o projeto basta baixar e abrir o arquivo html no navegador
+## **Uso**
 
+## **Apresentação**
+Foi gravado um vídeo explicando a solução de cada um dos exercícios, segue o [link](2023-11-21-00-25-04_MkCtEf2K.mp4)
 
-
+OBS.: O vídeo está com a extensão .mp4 e deve ser baixado para que possa ser assistido.
